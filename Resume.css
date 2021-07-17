@@ -1,0 +1,23 @@
+/* .style{"width":200px */
+    /* "height":200px } */
+
+
+/* .box={"width":87%:
+    "height":300px"} */
+
+
+h1{color:aqua;
+background:black;
+font-size: 40px;
+text-align: center;
+width: 300;
+align-items:lift;
+}
+p{
+    color:crimson;
+}
+.box{
+    background-image: url("/home/keemaya/Desktop/shubhangi.html/niki.png" );
+    padding: 100px;
+    margin: 100px;
+}
